@@ -1,0 +1,100 @@
+{
+  "タグ": {
+    "アパート": {
+      "name": "st_cs_tags[]",
+      "value": "113"
+    },
+    "ビル": {
+      "name": "st_cs_tags[]",
+      "value": "48"
+    },
+    "マンション": {
+      "name": "st_cs_tags[]",
+      "value": "69"
+    },
+    "別荘地": {
+      "name": "st_cs_tags[]",
+      "value": "36"
+    },
+    "土地": {
+      "name": "st_cs_tags[]",
+      "value": "12"
+    },
+    "土地及び建物": {
+      "name": "st_cs_tags[]",
+      "value": "16"
+    },
+    "平屋": {
+      "name": "st_cs_tags[]",
+      "value": "13"
+    },
+    "建物": {
+      "name": "st_cs_tags[]",
+      "value": "15"
+    },
+    "農地": {
+      "name": "st_cs_tags[]",
+      "value": "186"
+    }
+  },
+  "全国の０円物件情報": {
+    "中国": {
+      "name": "st_cs_cats[]",
+      "value": "7"
+    },
+    "九州・沖縄": {
+      "name": "st_cs_cats[]",
+      "value": "9"
+    },
+    "北海道": {
+      "name": "st_cs_cats[]",
+      "value": "2"
+    },
+    "北陸": {
+      "name": "st_cs_cats[]",
+      "value": "34"
+    },
+    "四国": {
+      "name": "st_cs_cats[]",
+      "value": "8"
+    },
+    "東北": {
+      "name": "st_cs_cats[]",
+      "value": "3"
+    },
+    "東海": {
+      "name": "st_cs_cats[]",
+      "value": "35"
+    },
+    "甲信越": {
+      "name": "st_cs_cats[]",
+      "value": "5"
+    },
+    "近畿": {
+      "name": "st_cs_cats[]",
+      "value": "6"
+    },
+    "関東": {
+      "name": "st_cs_cats[]",
+      "value": "4"
+    }
+  },
+  "募集状況": {
+    "募集中": {
+      "name": "st_cs_cats[]",
+      "value": "178"
+    },
+    "取引中止": {
+      "name": "st_cs_cats[]",
+      "value": "87"
+    },
+    "受付停止": {
+      "name": "st_cs_cats[]",
+      "value": "91"
+    },
+    "成約済": {
+      "name": "st_cs_cats[]",
+      "value": "32"
+    }
+  }
+}
