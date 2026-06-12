@@ -108,7 +108,7 @@ async def download_results():
         f"Loaded options successfully. Total permutations: {len(combinations)}"
     )
 
-    sem = asyncio.Semaphore(5)
+    sem = asyncio.Semaphore(1)
     logger.info("Starting concurrent downloads...")
     async with requests.AsyncSession() as session:
         tasks = [fetch_and_save(session, sem, combo) for combo in combinations]
